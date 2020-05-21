@@ -39,13 +39,13 @@ body {
 }
 
 .image:nth-child(1)::before {
-    background-image: url(images/01.jpg);
+    background-image: url(01.jpg);
 }
 
 .image:nth-child(2)::before {
-    background-image: url(images/02.jpg);
+    background-image: url(02.jpg);
 }
 
 .image:nth-child(3)::before {
-    background-image: url(images/03.jpg);
+    background-image: url(03.jpg);
 }
